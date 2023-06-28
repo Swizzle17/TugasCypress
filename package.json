@@ -1,0 +1,21 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Irene",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.00.0"
+  },
+  "dependencies": {
+    "dot-env": "^0.0.1"
+  }
+}
