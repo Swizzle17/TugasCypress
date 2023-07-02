@@ -3,6 +3,8 @@
 Scenario 
 https://docs.google.com/spreadsheets/d/1f1rnkl2g4fF7Vorxk4JasCz2RTTZYWX0wW83qXWRpi8/edit?usp=sharing
 
+
+Soal
 Please create an UI testing scenario from this url
 
 https://kasirdemo.belajarqa.com/login 
